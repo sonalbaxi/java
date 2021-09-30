@@ -5,6 +5,10 @@ int main()
 	int first,last,number[233],middle,search,limit,i;
      printf("enter the  limit:");
      scanf("%d",&limit);
+	int monil=1;
+if(monil==1){
+	console.log("hello hacktoberfest");
+}
      for(i=0;i<limit;++i)
         {
         	 printf("enter the number:");
